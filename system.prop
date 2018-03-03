@@ -6,3 +6,7 @@ ro.sf.lcd_density=480
 
 # Sdcardfs
 ro.sys.sdcardfs=false
+
+# Nfc
+ro.nfc.port="I2C"
+ro.nfc.sec_hal=true
