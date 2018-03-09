@@ -1,4 +1,4 @@
-Device configuration for the Samsung Galaxy J7 Prime
+Device configuration for the Samsung Galaxy J7 Pro
 
 Copyright (C) 2017 The LineageOS Project
 Copyright (C) 2017 Siddhant Naik
